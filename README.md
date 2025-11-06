@@ -1,23 +1,23 @@
-# Hi there! 👋
+# Hi there!
 
 I'm a dedicated front-end developer in training, driven by curiosity and a passion for applying best practices in modern web development.
 
-## Soft Skills 🌟
+## Soft Skills
 
-- Clear and effective communication
+- Organization and self-management
 - Continuous learning and proactivity
 - Resilience in the face of challenges
 - Critical thinking and problem-solving focus
 - Empathy and attention to user experience
 
-## My Skills 🧠
+## Hard Skills
 <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,react,figma,git,github" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwindcss,vite,react,vue,vitest,git" alt="My Skills: html,css,js,ts,sass,bootstrap,tailwindcss,vite,react,vue,vitest,git" />
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sortjakke&layout=compact&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
 
-## Let's Connect ✉️
+## Connect with me
 
 I'm always open to new collaborations, freelance opportunities, or just a good tech conversation.
 
