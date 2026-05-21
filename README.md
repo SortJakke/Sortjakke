@@ -15,15 +15,14 @@ I'm a dedicated front-end developer in training, driven by curiosity and a passi
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwindcss,vite,react,vue,vitest,git" alt="My Skills: html,css,js,ts,sass,bootstrap,tailwindcss,vite,react,vue,vitest,git" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sortjakke&layout=compact&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Connect with me
 
 I'm always open to new collaborations, freelance opportunities, or just a good tech conversation.
 
-**Portfolio and LinkedIn coming soon!**
-
 <p>
+  <a href="https://www.linkedin.com/in/erick-rodrigues-02a731410/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://www.frontendmentor.io/profile/SortJakke" target="_blank">
     <img alt="FrontEnd Mentor" src="https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white" />
   </a>
@@ -32,17 +31,5 @@ I'm always open to new collaborations, freelance opportunities, or just a good t
   </a>
 </p>
 
-<!--
-**SortJakke/Sortjakke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Portfolio coming soon!**
